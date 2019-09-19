@@ -1,0 +1,23 @@
+{
+  "name": "my-sample-nodsjs-app-os",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinod827/my-sample-nodsjs-app-os.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Vinod Kumar Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinod827/my-sample-nodsjs-app-os/issues"
+  },
+  "homepage": "https://github.com/vinod827/my-sample-nodsjs-app-os#readme"
+}
